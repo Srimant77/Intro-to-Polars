@@ -1,9 +1,5 @@
 # An Introduction to Polars - Structuring, Joining and Validating Tabular Data
 
-[![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
-[![Polars Version](https://img.shields.io/badge/polars-1.3%2B-orange.svg)](https://pola.rs)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/)
-
 A quick introduction to polars and its capabilities, including high-performance tabular data manipulation, relational mapping, etc. for financial validation. Polars is a fast DataFrame library implemented in Rust.
 
 ---
