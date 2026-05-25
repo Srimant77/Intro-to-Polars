@@ -1,0 +1,51 @@
+dc_code,country,city,location_name,total_power_mw,available_power_mw,tier_level,commissioning_date
+DC-UK001,United Kingdom,London,London DC-1,88.59,22.94,3,2020-01-11
+DC-US001,United States,San Jose,San Jose DC-1,11.92,4.21,3,2012-01-16
+DC-JP001,Japan,Osaka,Osaka DC-1,15.4,5.83,2,2015-04-17
+DC-IE001,Ireland,Dublin,Dublin DC-1,14.2,2.22,3,2014-08-14
+DC-DE001,Germany,Frankfurt,Frankfurt DC-1,30.0,1.99,4,2021-04-16
+DC-US002,United States,New York,New York DC-2,90.09,29.26,3,2020-07-06
+DC-NL001,Netherlands,Rotterdam,Rotterdam DC-1,103.36,29.78,3,2023-04-26
+DC-US003,United States,Ashburn,Ashburn DC-3,14.48,5.62,4,2012-11-05
+DC-CA001,Canada,Toronto,Toronto DC-1,11.25,3.25,3,2017-03-15
+DC-BR001,Brazil,São Paulo,São Paulo DC-1,11.11,4.09,3,2012-02-08
+DC-SG001,Singapore,Singapore,Singapore DC-1,16.04,3.87,3,2014-07-24
+DC-IE002,Ireland,Cork,Cork DC-2,5.2,1.08,3,2018-04-15
+DC-IE003,Ireland,Dublin,Dublin DC-3,9.95,1.44,4,2012-01-23
+DC-UK002,United Kingdom,London,London DC-2,7.08,0.7,4,2014-04-21
+DC-US004,United States,Seattle,Seattle DC-4,30.0,4.58,2,2020-03-01
+DC-US005,United States,Atlanta,Atlanta DC-5,8.17,2.49,4,2018-10-20
+DC-US006,United States,Seattle,Seattle DC-6,18.31,6.36,3,2014-08-01
+DC-US007,United States,Seattle,Seattle DC-7,16.21,2.57,3,2019-05-18
+DC-JP002,Japan,Osaka,Osaka DC-2,86.45,15.91,4,2022-03-29
+DC-BR002,Brazil,São Paulo,São Paulo DC-2,6.58,1.62,4,2011-10-20
+DC-DE002,Germany,Frankfurt,Frankfurt DC-2,59.63,12.15,3,2022-03-12
+DC-IN001,India,Mumbai,Mumbai DC-1,83.32,13.33,3,2020-10-16
+DC-IE004,Ireland,Dublin,Dublin DC-4,19.36,2.34,4,2016-02-21
+DC-FR001,France,Marseille,Marseille DC-1,25.0,2.66,4,2013-09-27
+DC-AU001,Australia,Sydney,Sydney DC-1,72.37,9.15,3,2024-02-28
+DC-IN002,India,Bangalore,Bangalore DC-2,10.22,0.95,3,2016-02-04
+DC-IE005,Ireland,Dublin,Dublin DC-5,13.04,4.39,4,2012-12-03
+DC-US008,United States,Atlanta,Atlanta DC-8,7.68,1.82,3,2012-12-22
+DC-SG002,Singapore,Singapore,Singapore DC-2,52.33,5.7,3,2022-09-25
+DC-NL002,Netherlands,Rotterdam,Rotterdam DC-2,54.57,9.67,4,2019-07-26
+DC-IE006,Ireland,Cork,Cork DC-6,102.17,10.4,4,2022-03-18
+DC-US009,United States,Phoenix,Phoenix DC-9,100.12,22.62,2,2021-03-15
+DC-US010,United States,Ashburn,Ashburn DC-10,22.17,5.23,3,2018-09-09
+DC-NL003,Netherlands,Amsterdam,Amsterdam DC-3,101.64,28.99,4,2024-05-14
+DC-US011,United States,Seattle,Seattle DC-11,14.31,5.64,3,2016-08-21
+DC-BR003,Brazil,Rio de Janeiro,Rio de Janeiro DC-3,22.01,7.53,3,2018-11-23
+DC-US012,United States,Dallas,Dallas DC-12,64.59,8.21,3,2022-07-02
+DC-AU002,Australia,Melbourne,Melbourne DC-2,96.44,26.6,3,2019-10-04
+DC-SG003,Singapore,Singapore,Singapore DC-3,90.51,8.88,3,2022-12-02
+DC-US013,United States,Seattle,Seattle DC-13,14.2,3.4,3,2019-03-23
+DC-US014,United States,Atlanta,Atlanta DC-14,80.69,18.99,3,2020-11-16
+DC-US015,United States,Chicago,Chicago DC-15,21.54,5.28,4,2012-04-24
+DC-US016,United States,Ashburn,Ashburn DC-16,21.5,7.82,4,2014-09-06
+DC-AU003,Australia,Melbourne,Melbourne DC-3,10.66,3.71,4,2015-06-25
+DC-AU004,Australia,Melbourne,Melbourne DC-4,16.47,0.85,3,2012-10-02
+DC-NL004,Netherlands,Rotterdam,Rotterdam DC-4,11.43,2.37,4,2014-09-29
+DC-US017,United States,Chicago,Chicago DC-17,11.24,3.5,3,2013-01-11
+DC-BR004,Brazil,São Paulo,São Paulo DC-4,9.35,1.48,3,2015-05-01
+DC-DE003,Germany,Munich,Munich DC-3,52.76,20.61,3,2019-12-25
+DC-IN003,India,Chennai,Chennai DC-3,10.92,2.21,3,2016-06-17
